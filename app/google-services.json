@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847105498474",
+    "firebase_url": "https://bousolution-9ea84.firebaseio.com",
+    "project_id": "bousolution-9ea84",
+    "storage_bucket": "bousolution-9ea84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847105498474:android:62f2c0c0fc9f328b529913",
+        "android_client_info": {
+          "package_name": "com.example.bou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847105498474-8b38naje3bv8foignrvtjd3gojfn24su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bou",
+            "certificate_hash": "fc47863e116c3492c7c895a6768273cc5f57e65c"
+          }
+        },
+        {
+          "client_id": "847105498474-q1mugh25su1gj3r23qe67f64cip7t1dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgphSQH8GKylC3cc-HGw6uF1WHkppeieg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847105498474-q1mugh25su1gj3r23qe67f64cip7t1dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
